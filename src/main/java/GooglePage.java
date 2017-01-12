@@ -9,7 +9,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
  */
 public class GooglePage {
     String url;
-    WebDriver driver;
+    WebDriver driver
     private By googleInputLocator = By.id("lst-ib");
 
     public GooglePage() {
