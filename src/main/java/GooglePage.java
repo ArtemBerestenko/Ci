@@ -8,7 +8,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
  * Created by aberestenko on 12/28/2016.
  */
 public class GooglePage {
-    String url;
+    String url
     WebDriver driver
     private By googleInputLocator = By.id("lst-ib");
 
